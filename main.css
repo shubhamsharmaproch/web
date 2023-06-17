@@ -1,0 +1,69 @@
+.a {
+   word-spacing: 60px;
+
+}
+.projecta {
+    border:2px solid rgb(42, 44, 45);
+    width:60vw;
+    padding:20px;
+    margin:33px auto;
+    color:white;
+    background-color: rgb(28, 28, 28);
+    
+}
+.n {
+    border:2px solid rgb(42, 44, 45);
+    margin:101px 82px;
+    padding:20px;
+    
+}
+.project {
+    border:4px solid black;
+    width:80vw;
+    margin:33px auto;
+}
+.a {
+    border:1px solid black ;
+    margin:4px 109px;
+    width:60vw;
+    padding:20px;
+}
+.flexa {
+    border:2px solid rgb(41, 40, 40);
+    background-color: black;
+    color:white;
+    padding:20px;
+}
+.flexb {
+    border:2px solid rgb(41, 40, 40);
+    background-color: black;
+    color:white;
+    padding:20px;
+}
+.flexc {
+    border:2px solid rgb(41, 40, 40);
+    background-color: black;
+    color:white;
+    padding:20px;
+}
+.flexd {
+    border:2px solid rgb(41, 40, 40);
+    background-color: black;
+    color:white;
+    padding:20px;
+}
+.flexe {
+    border:2px solid rgb(41, 40, 40);
+    background-color: black;
+    color:white;
+    padding:20px;
+}
+.projectd {
+    border:2px solid rgb(41, 40, 40);
+    background-color: black;
+    color:white;
+    padding:20px;
+}
+body {
+    background-color: black;
+}
